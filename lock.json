@@ -1,4 +1,21 @@
 {
-    "memo": "",
-    "projects": []
+    "memo": "1c39bec8ed07e4f23cbabed4dda7b20797ff55ce1d82757e608c7c9c1baf08e4",
+    "projects": [
+        {
+            "name": "github.com/BurntSushi/toml",
+            "version": "v0.2.0",
+            "revision": "bbd5bb678321a0d6e58f1099321dfa73391c1b6f",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/packethost/packngo",
+            "branch": "master",
+            "revision": "91a3a4f65e3cd6ee66d919b4e7103ae038ce66ff",
+            "packages": [
+                "."
+            ]
+        }
+    ]
 }
